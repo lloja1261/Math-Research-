@@ -1,7 +1,5 @@
 #Luis Loja
-#AP Computer Science Principles
-#Taylor Series
-#March 20, 2017
+
 
 import math    #This wil be used to calculate the python value of the functions
 
